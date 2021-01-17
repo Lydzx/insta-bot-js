@@ -1,7 +1,7 @@
 module.exports = {
     name: "ping",
     aliases: ["pong"],
-    description: "Mengecek ping bot",
+    description: "Im alive",
     category: "General",
     usage: "",
 

@@ -5,7 +5,7 @@ module.exports = {
     name: "eval",
     aliases: ["e"],
     description: "Evalved Js",
-    category: "developer",
+    category: "Developer",
     usage: "eval [input] || eval client",
     run: async(client, msg, args) => {
         if (!client.config.owners.includes(msg.author.id)) {
